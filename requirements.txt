@@ -1,0 +1,4 @@
+# Generated from notebook imports - versions not pinned, install latest compatible
+nltk
+numpy
+torch
